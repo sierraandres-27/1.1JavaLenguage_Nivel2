@@ -1,6 +1,6 @@
 package Exercise1;
 
-public class ClasePrincipal {
+public class Main {
 
     public static void main(String[] args) {
 
@@ -9,6 +9,8 @@ public class ClasePrincipal {
         System.out.println(telefono.fotografiar());
 
         System.out.println(telefono.alarma());
+
+
 
 
     }

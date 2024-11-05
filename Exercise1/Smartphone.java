@@ -1,6 +1,6 @@
 package Exercise1;
 
-public class Smartphone extends Teléfono implements Camara, Reloj {
+public class Smartphone extends Telefono implements Camara, Reloj {
 
     public String alarma() {
         return "Esta sonando la alarma";

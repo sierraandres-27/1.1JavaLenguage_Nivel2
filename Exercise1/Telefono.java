@@ -1,8 +1,8 @@
 package Exercise1;
 
-public class Teléfono {
+public class Telefono {
 
-    public Teléfono(){
+    public Telefono(){
 
 
 
